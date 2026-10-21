@@ -1,5 +1,3 @@
-# NN STUDIOS: NN DIY SPIRIT
-
 > **Igniting innovation through DIY electronics, IoT systems, and code.**
 
 ---
