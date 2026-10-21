@@ -1,7 +1,7 @@
 ---
 NN STUDIOS: post
 '#1': "From Screwdrivers to Source Code: My Journey into Robotics and CSE"
-DATE: 2026-10-21
+date: 2026-10-21
 ---
 
 If you looked at my workbench a while ago, you’d find a mess of jumper wires, breadboards, 18650 Li-ion batteries, and microcontrollers scattered everywhere. Fast forward to today, and you'll find me knee-deep in C++, Python, version control, and algorithms as a first-year Computer Science Engineering student.
