@@ -1,5 +1,4 @@
 ---
-NN STUDIOS: post
 title: "From-Screwdrivers-to-Source-Code:-My-Journey-into-Robotics-and-CSE"
 date: 2026-10-21
 ---
