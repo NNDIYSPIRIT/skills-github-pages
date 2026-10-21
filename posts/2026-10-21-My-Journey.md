@@ -1,5 +1,5 @@
 ---
-title: "From-Screwdrivers-to-Source-Code:-My-Journey-into-Robotics-and-CSE"
+title: "My-Journey"
 date: 2026-10-21
 ---
 
